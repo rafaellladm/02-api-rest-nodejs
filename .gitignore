@@ -1,3 +1,4 @@
 node_modules
 testando.http
 db/app.db
+.env
